@@ -1,0 +1,28 @@
+gun_type,cust_num
+300 Win        ,1
+16 gauge       ,3
+357 Mag        ,84
+Unknown        ,662
+10mm           ,3
+Shotgun        ,509
+12 gauge       ,127
+410 gauge      ,15
+20 gauge       ,19
+Irrelevant     ,7963
+22 LR          ,401
+223 Rem [AR-15],163
+44 Mag         ,22
+30-06 Spr      ,5
+Handgun        ,2885
+38 Spl         ,181
+32 Auto        ,48
+30-30 Win      ,15
+7.62 [AK-47]   ,103
+Rifle          ,602
+25 Auto        ,73
+380 Auto       ,218
+40 SW          ,281
+45 Auto        ,254
+9mm            ,649
+308 Win        ,9
+Other          ,123

@@ -1,0 +1,55 @@
+state,gun_type,gun_total_gravity,max_gun_total_gravity
+Alabama                       ,Handgun        ,1429,1429
+Alaska                        ,Handgun        ,617,617
+Arizona                       ,Handgun        ,896,896
+Arkansas                      ,Handgun        ,950,950
+British Columbia              ,Handgun        ,6,6
+California                    ,Handgun        ,5899,5899
+Colorado                      ,Handgun        ,1171,1171
+Connecticut                   ,Handgun        ,1280,1280
+Delaware                      ,Handgun        ,440,440
+District of Columbia          ,Handgun        ,276,276
+Florida                       ,Handgun        ,5326,5326
+Georgia                       ,Handgun        ,2542,2542
+Hawaii                        ,Handgun        ,128,128
+Idaho                         ,Handgun        ,408,408
+Illinois                      ,Handgun        ,3346,3346
+Indiana                       ,Handgun        ,2232,2232
+Iowa                          ,Handgun        ,925,925
+Kansas                        ,Handgun        ,593,593
+Kentucky                      ,Handgun        ,1466,1466
+Louisiana                     ,Handgun        ,2383,2383
+Maine                         ,Handgun        ,431,431
+Maryland                      ,Handgun        ,1677,1677
+Massachusetts                 ,Handgun        ,2960,2960
+Michigan                      ,Handgun        ,2034,2034
+Minnesota                     ,Handgun        ,861,861
+Mississippi                   ,Handgun        ,1164,1164
+Missouri                      ,Handgun        ,2057,2057
+Montana                       ,Handgun        ,302,302
+Nebraska                      ,Handgun        ,596,596
+Nevada                        ,Handgun        ,616,616
+New Hampshire                 ,Handgun        ,394,394
+New Jersey                    ,Handgun        ,2116,2116
+New Mexico                    ,Handgun        ,444,444
+New York                      ,Handgun        ,3945,3945
+North Carolina                ,Handgun        ,2459,2459
+North Dakota                  ,Handgun        ,216,216
+Ohio                          ,Handgun        ,3660,3660
+Oklahoma                      ,Handgun        ,1276,1276
+Ontario                       ,Handgun        ,4,4
+Ontario                       ,Shotgun        ,4,4
+Oregon                        ,Handgun        ,1128,1128
+Pennsylvania                  ,Handgun        ,3073,3073
+Rhode Island                  ,Handgun        ,355,355
+South Carolina                ,Handgun        ,2206,2206
+South Dakota                  ,Handgun        ,290,290
+Tennessee                     ,Handgun        ,2138,2138
+Texas                         ,Handgun        ,4602,4602
+Utah                          ,Handgun        ,511,511
+Vermont                       ,Handgun        ,146,146
+Virginia                      ,Handgun        ,1431,1431
+Washington                    ,Handgun        ,1934,1934
+West Virginia                 ,Handgun        ,601,601
+Wisconsin                     ,Handgun        ,1241,1241
+Wyoming                       ,Handgun        ,108,108
