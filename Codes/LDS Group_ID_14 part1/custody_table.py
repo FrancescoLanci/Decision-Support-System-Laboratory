@@ -19,7 +19,7 @@ def json_mapping(line ,json_mappings, columns):#to compute the crime_gravity
 server = 'tcp:lds.di.unipi.it' 
 database = 'Group_ID_14_DB' 
 username = 'Group_ID_14' 
-password = 'L5WDFF33' 
+password = '' 
 connectionString = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+password
 cnxn = pyodbc.connect(connectionString)
 cursor = cnxn.cursor()
